@@ -1,0 +1,211 @@
+In Recall, you play as a man desperately trying to recover memories buried deep within your own subconscious. To do so, you travel through a dreamscape constructed out of the objects, landscapes, and citizens of your own past: the Memory Palace. By tapping into your spatial memory skills, you can overcome the weaknesses of your narrative memory to find the places that hide your most deeply buried memories.
+
+
+life (laif) n. a process in which you create memories which in turn create you
+
+
+Four seasons, twenty memories, one location
+
+Five characters:
+You (early childhood in your memories, from the ages of around five to ten, adult-aged in reality and non-gender-specific)
+Brother (a year or two younger than you)
+Sister (four or five years older than you)
+Father
+Mother
+
+	Over the course of four segments, each corresponding to a different season, you remember the trips your family took to your family’s lake house, from the spring when your parents first bought it to that fateful last winter. Upon finding an object and upon placing it in its respective “pedestal”, you trigger a memory event, a voice recording of either your own voice describing a recollection or of the dialogue associated with the memory. The five memories of each season do not necessarily fall in a set order, although they are organized in a way that they could follow a natural progression, but it does allow for the player to take different, more unique paths through the game.
+
+Spring
+1. A toy boat: As you arrive at the lake house for the first time, you take your toy boat. You walk down to its pedestal, at the water’s edge. You remember how huge and beautiful the lake looked for the first time, and you remember seeing the island across the water and wondering if you’d ever walk around on it. When you place the boat in its pedestal, you remember how you lost it when it floated out deep into the lake.
+2. A bundle of flowers: You find a bundle of flowers in the clearing near the forest. When you take them to their pedestal on the porch of the house, you remember giving them to your mother as a gift and just how happy she was to receive them.
+3. A life jacket: At the house, you find a brand new life jacket. You remember your dad giving it to you and explaining to you what it was. When you take it to its pedestal on the dock, you remember your father taking you out on the boat for the first time and how amazing it felt.
+5. A teddy bear: At the edge of the woods, you find your sister’s teddy bear and remember your parents telling her and you to not go out there and how you once pranked her by throwing her bear into the woods. Once you put it back on its pedestal by the tire swing near your house, you remember giving her back her teddy bear and how happy she was.
+4. A kite: In a tall tree near the mountain pass, you find your sister’s kite that she stuck there.
+
+Summer
+6. An empty jar: You find an empty jar sitting in the house. You remember that you and your brother used to collect the first fireflies of the summer in a jar and keep them alive as long as you could, so you take the jar to the forest and leave it at a pedestal there.
+8. A dead squirrel: At the edge of the woods, you find a dead squirrel. When you go to the rock face at the northwest corner of the map, you find the pedestal for it. When you place the squirrel there, you remember that you threw the squirrel against the rock and it burst open, full of maggots, and you ran away screaming in hopes that no one would see it.
+7. A good stick: In the woods, you find a perfect stick – not too think, not too thin, just long enough to use as a good fake sword. When you find the pedestal for it, you remember a time that you hit your little brother with it and made him cry and your dad snapped your perfect stick in half.
+9. Sunscreen: By the flat area near the lake, you find a bottle of sunscreen. You remember your mother telling you to always put on sunscreen before swimming. Once you put the sunscreen back on the dock, you remember the time you ignored her advice and getting burnt so bad you couldn’t swim for two days and how much it hurt.
+10. Bikini top: Washed up on the shore, you find your sister’s bikini top. When you place it on its pedestal near the river, you remember how you put it on to see what it felt like and you remember how your family laughed at you for it and how embarrassed you felt.
+
+Fall
+11. A football: In the grassy clearing near the house, you find a football. When you place it on its pedestal, you remember your father teaching you how to throw a football with your hands spaced out on the laces to get a good spiral.
+12. A bag of apples: Deep in the woods, you find a bag of apples. You remember that once, you tried to get a bag of apples from an apple tree so that your mom could make your favorite food, apple pie. Once you place them on their pedestal in the kitchen of your house, you remember that when you gave them to your mother, they were all rotten.
+15. A flashlight: On your bed, you find a flashlight. When you pick it up, you remember how you wanted to explore the cave on the far end of the map. When you travel into the cave, you find the pedestal for the flashlight and when you place it down, you remember hearing what you thought was a monster, dropping the flashlight, and running out in fear.
+13. The hand turkey: In the kitchen on the fridge, you find a hand-shaped turkey drawing your brother made in class. Near the river’s edge you find the pedestal for it. When you place it down, you remember getting jealous of how much your parents praised it and throwing it in the river to get back at your brother.
+14. The beetle: On a log in the woods, you find a live beetle. When you pick it up, you remember trying to use it to prank your sister. When you place it on its pedestal on her bed in the house, you remember how you left it there and she sat right on it, covering herself in bug bits.
+
+Winter
+16. A glove: You find your sister’s glove sitting on a rock deep in the winter forest. You must take it to the pedestal of the living room, you remember how you found out from your parents that she tried to run away from home but that they never told you why she did.
+17. A carrot: You find a carrot in the kitchen. You remember that your brother wanted to build a snowman with you by the edge of the frozen lake. When you go to put it on the snowman, you find the remains of the snowman lying on the ground destroyed.
+18. A woman’s scarf: In the remains of the snowman, you find a woman’s scarf. You don’t want it to get ruined by the melting snow, so you take it inside. As you do, you realize that you don’t remember your mother ever wearing the scarf before. When you place it on its pedestal on the porch of your house, you remember that it belonged to another woman and that when you gave it to your mother, she discovered your father’s affair.
+19. A hockey puck: While in the house for the last time, you find your brother’s hockey puck, standing on the frozen lake. You remember that he wanted to walk you out across the frozen lakebed to show you a gift he’d hidden on the island for you. You walk onto the lakebed and discover the pedestal there at a crack in the ice. As you set the puck there, you remember that when you and your brother went onto the frozen lake, the ice cracked beneath his feet and he drowned.
+20. A jar of fireflies: You finally make it out to the small island that you and your brother had wanted to go on for so long. As you step onto the island, you pass the toy boat that you put in the water back on the spring washed up on the shore. As you travel further into the island, you discover the gift he left you – a jar of summer fireflies that he’d kept alive in secret. At this point, you awake, remembering now all that happened at the lake house.
+
+Spring
+	•	Arrival at the lake house
+	•	Putting the toy boat in the stream
+	•	Giving your mother flowers in the garden
+	•	Receiving the life jacket at the dock
+	•	Finding the kite near the mountain pass
+	•	Finding teddy bear at the edge of the woods
+
+Summer
+	•	Arrival at the edge of the woods
+	•	Placing the empty jar in the clearing
+	•	Finding the good stick
+	•	Throwing the dead squirrel at the wall
+	•	Finding the sunscreen near the water
+	•	Finding the sister’s bikini top at the shore
+
+Fall
+	•	Arrival at the water’s edge
+	•	Finding the football in the yard
+	•	Finding the bag of apples in the kitchen
+	•	Finding your brother’s hand turkey in the back yard
+	•	Finding the beetle on a shrub
+	•	Leaving the flashlight in the cave
+
+Winter
+	•	Arrival at the cave
+	•	Finding the glove deep in the woods
+	•	Finding the carrot near the waterfall
+	•	Finding the woman’s scarf in the parent’s bedroom
+	•	Finding the hockey puck out on the water
+	•	Finding the jar of fireflies on the island
+
+
+Voiceover:
+
+<This is the story of a person desperately trying to recover memories buried deep within their own subconscious. Travel through a dreamscape constructed out of their own past: their Memory Palace. By tapping into the brain’s natural spatial memory skills, it is possible to overcome weaknesses in memory to find the places that hide your most deeply buried memories.>
+
+
+Text:
+
+Spring:
+
+Toy Boat
+	First time we went to the lakehouse, I thought it was the ocean. I went to the water’s edge one day, staring at the island, wondering. I put my toy boat in the water and pushed it out. Wonder if it made it.
+Flowers
+	My parents let me go out and explore the area alone. I found these wildflowers near the river. I gave them to my mom. She thought it was the cutest thing, she still brings it up.
+
+Life Jacket
+	We had this crappy little two-cylinder fishing boat the first spring. First time we went out on it, my dad gave me this neon-colored life jacket. I thought the “life” part meant it was like armor. I never took that thing off, even on land.
+
+Kite
+	My sister caught her kite in a tree. I thought I was a good enough tree-climber to get it back for her. Mom screamed when she saw me that high up, but turns out, I was fine.
+ Teddy Bear
+	My brother was only a toddler then. He cried one day because he’d lost his teddy bear. I found it for him. I guess he got scared by the woods back then and dropped it. I was scared too.
+
+
+Summer:
+
+Empty Jar
+	Right when summer started, my brother and I went out in the woods to catch all the fireflies in an empty jar. We’d poke holes in the lid and try to keep them alive as long as we could.
+
+Stick
+	Every child has an innate knowledge of what makes a great stick. About as tall as you, about as thick as a toilet paper roll. Perfect for pretend – a gun, a sword, a cane, whatever.
+
+Dead Squirrel
+	Ugh. I found a dead squirrel in the woods. I was young, I thought I’d throw it against the rock face. Bad idea. The thing exploded. Turns out it was full of maggots. I wanted to puke.
+
+Sunscreen
+	My mom told me to put on sunscreen if I was gonna swim. I was young, didn’t believe her, of course. Left it by the water’s edge. Few hours later, I was fire engine red and moaning all night.
+
+Bikini Top
+	Geez, this thing. My sister had left her bikini top on the ground. As a joke, I put it on. My parents laughed at me so hard, I turned redder from that than when I got sunburnt. 
+
+Fall:
+
+Football
+	By that fall, my brother was more of a person, got big into sports. Throwing the football used to be something I would do with dad, but that Thanksgiving, it became their thing instead.
+
+Bag of Apples
+	My mom’s apple pie was my favorite thing as a kid, and she told me if I could get her a bag of apples, she’d make it for me. I spent all day climbing trees in the woods to get them. When I gave them to her though, they were all rotten. Every one.
+
+Hand Turkey
+	My brother had made this intricate turkey drawing in class and he was so proud of it. After the football thing, I was really mad at him, so I ripped the turkey off the fridge and left it in the backyard.
+
+Beetle
+	In the bushes one day I found a huge beetle. I thought I could prank my sister by leaving it on her pillow. Well, she didn’t notice at all when she laid down, so she just got the whole thing crushed in her hair. She was so upset.
+
+Flashlight
+	There was this cave deep in the woods I was too scared to go in. When I decided to brave it, I walked in with this cheap flashlight. When the thing died, I freaked out and sprinted out. Never ran that fast before.
+
+Winter:
+
+Glove
+	My sister tried to run away the Christmas before we sold the lakehouse. I never found out why, but they found her. She had gotten her glove caught on a thornbush. I was scared for a few hours that that glove would be my only trace of her.
+
+Carrot
+	I tried to build a snowman once. I made the shape of it then went to get the carrot and coal, but when I got back to it, my brother had destroyed the whole thing.
+
+Woman’s Scarf
+	I went in my dad’s things to find a scarf for a snowman. I found this woman’s scarf. When my mom saw it, she’d asked if I’d taken it from my sister. When I said “dad’s stuff”, she got really mad. She and Dad argued a lot that night.
+
+Hockey Puck
+	My brother got into hockey around that time. We played together once. I shot this one shot really far, onto thin ice. He went out to get it and… that was that. He was pretty light, I thought. But pretty light was heavy enough.
+
+Jar of Fireflies
+	My brother told me he’d left my Christmas gift out on the island. I was nervous crossing the ice, but I finally made it out there. I cried when I found his gift. We never went back to the lakehouse after that winter.
+
+
+
+
+
+Music notes:
+
+Spring:
+
+Bouncy, quick-paced, major key, acoustic guitar, piano, upright bass, 
+
+Man in a Shed – Nick Drake
+https://www.youtube.com/watch?v=F0BDMTLRxgg
+
+Sitting by the Riverside – The Kinks
+https://www.youtube.com/watch?v=80o__1OkB8M
+
+Mykonos – Fleet Foxes
+https://www.youtube.com/watch?v=xSB74LZDNr0
+
+Summer:
+
+Mellow, soothing, idyllic, still major, same instrumentation maybe with something fun like harpsichord or vibes thrown in
+
+This Feeling – Alabama Shakes
+https://www.youtube.com/watch?v=Ub6XFO0ca5Q
+
+That’s the Way – Led Zeppelin
+https://www.youtube.com/watch?v=Phd48YT18vY
+
+Cypress Avenue – Van Morrison
+https://www.youtube.com/watch?v=L8jPDdHd9y8
+
+Fall
+
+Sadder, slower, minor modulations, acoustic guitar, strings, maybe a glockenspiel or a trumpet
+
+Lime Tree – Bright Eyes
+https://www.youtube.com/watch?v=9591zoSkqyc
+
+Stephanie Says – The Velvet Underground
+https://www.youtube.com/watch?v=weRw8vTKzAw
+
+Good Feeling – Violent Femmes
+https://www.youtube.com/watch?v=KhedKAhHqK8
+
+Winter
+
+Very sad, very minor key, sparse, just a piano line and strings and/or choir
+
+Blue in Green – Miles Davis
+https://www.youtube.com/watch?v=PoPL7BExSQU
+
+Out of Egypt, into the Great Laugh of Mankind, and I shake the dirt from my sandals as I run – Sufjan Stevens
+https://www.youtube.com/watch?v=i7ts5C6LFmo
+
+Vow – Julianna Barwick
+https://www.youtube.com/watch?v=6JkSVvMn5Sc
+
+
